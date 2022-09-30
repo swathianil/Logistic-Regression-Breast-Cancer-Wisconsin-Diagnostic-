@@ -1,4 +1,4 @@
-# Logistic-Regression-Breast-Cancer-Wisconsin-Diagnostic
+# Logistic-Regression-Breast-Cancer-Wisconsin-Diagnostic: in progress
 
 In this miniproject we will work through the kaggle dataset Breast Cancer (Wisconsin) to understand basic concepts of a logistic regression classifier.
 
