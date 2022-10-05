@@ -9,7 +9,7 @@ In this miniproject we will work through the kaggle dataset Breast Cancer (Wisco
 Predicting the probability that a diagnosed breast cancer case is malignant or benign based on Wisconsin dataset from UCI repository.
 
 ## File description
-- Roadmap_to_Logistic_Regression.ipynb : Tutorial and steps to load, wrangle the data, apply logistic regression classifier and test model performance.
+- Breast Cancer Classification | 0.99 accuracy.ipynb : Tutorial and steps to load, wrangle the data, apply logistic regression classifier and test model performance.
 - data.csv : data file consisiting of the Wisconsin Breast Cancer dataset
 - setupy.py : list of dependencies & requirements
 
