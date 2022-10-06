@@ -2,8 +2,6 @@
 
 In this miniproject we will work through the kaggle dataset Breast Cancer (Wisconsin) to understand basic concepts of a logistic regression classifier.
 
-## Background
-
 ## Objective
 
 Predicting the probability that a diagnosed breast cancer case is malignant or benign based on Wisconsin dataset from UCI repository.
